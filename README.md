@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Arshad4786
-- 👀 I’m interested in ...web desinging
-- 🌱 I’m currently learning ...Basic HTML and java
-- 💞️ I’m looking to collaborate on ...square enix
+-  Hi, I’m @Arshad4786
+-  I’m interested in ...web desinging
+-  I’m currently learning ...Basic HTML and java
+-  I’m looking to collaborate with ...square enix
 - 📫 How to reach me ...arshad88908@gmail.com
 
 <!---
