@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recycle Device**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **djscarshad@gmail.com**
 
